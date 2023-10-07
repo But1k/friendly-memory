@@ -16,6 +16,7 @@ meme_dict = {
             
             
 word = input("Введите непонятное слово (большими буквами!): ")
+print('Фаил отредактирован')
 
 
 if word in meme_dict.keys():
