@@ -66,4 +66,4 @@ print("Решка выпала",rejka,"раз")
 
 
 
-bot.run('MTE1NTE2ODQ1MjY0Mjg3NzU3Mg.GHsfo2.BrIvmcPUs8O0FiJ2e32O6ESAQ0CFZ6SKJeg6mY')
+bot.run('My token')
